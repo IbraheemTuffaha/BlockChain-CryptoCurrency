@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Blockchain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Blockchain_jar</output-path>
+    <root id="archive" name="Blockchain.jar">
+      <element id="module-output" name="Blockchain" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
